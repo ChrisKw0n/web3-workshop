@@ -110,7 +110,7 @@ export default function Home() {
 
   return (
     <div className="container max-w-4xl mx-auto p-4 space-y-6">
-      <h1 className="text-4xl font-bold mb-8 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-pink-600">CDP Wallet Manager</h1>
+      <h1 className="text-4xl font-bold mb-8 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-pink-600">Web3 Workshop</h1>
       
       <Card className="bg-white dark:bg-gray-800">
         <CardHeader className="flex justify-between items-center">
